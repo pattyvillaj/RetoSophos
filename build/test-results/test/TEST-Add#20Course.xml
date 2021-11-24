@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Add Course" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-24T02:41:18" hostname="CHMEPPF1JVKUB" time="25.24">
+  <properties/>
+  <testcase name="Sophos jobs platform" classname="Add Course" time="25.24"/>
+  <system-out><![CDATA[Desarrollador Java AWS
+5 octubre, 2020
+Desarrollador Java AWS 3 años de experiencia participado en roles de desarrollo en Java, Angular, JavaScript, Spring Boot, Bootstrap, Maqueteo. Con experiencia en desarrollo de componentes AWS y versionamiento con…
+Líder Técnico Java
+5 octubre, 2020
+Líder Técnico Java Profesional en Ingeniería de sistemas o carreas a fines con experiencia mínima de 5 años en desarrollo Java, Pl/sql, liderando equipo de trabajo, trabajo bajo metodología ágiles,…
+Desarrollador Java PL/SQL
+5 octubre, 2020
+Desarrollador Java PL/SQL Profesional en Ingeniería de sistemas o carreras a fines con experiencia mínima de 2 años en desarrollo Java, Pl/sql. Experiencia en weblogic, servicios REST y SOAP, hibernate,…
+Desarrollador Java con Sprint y Sprintboot
+5 octubre, 2020
+Desarrollador Java con Sprint y Sprintboot Conocimientos en POO (Programación Orientada a Objetos) – Conocimientos básicos en diagramas UML. – API’s – Base de datos: Posgresql, mysql – IDE de…
+Desarrollador Java Bilingue
+17 julio, 2020
+Adjunta tu hoja de vida Tu nombre * Tu correo electrónico * Tu mensaje Para mas informacion comunicate a: erika.caicedo@sophossolutions.com…
+Desarrollador Java
+17 julio, 2020
+Adjunta tu hoja de vida Tu nombre * Tu correo electrónico * Tu mensaje Para mas informacion comunicate a: erika.caicedo@sophossolutions.com…
+Desarrolladores Backend
+5 octubre, 2020
+Desarrolladores Backend Profesional en Ingeniería de sistemas o afines con experiencia en desarrollo Java.Conocimientos en Java, JEE, Oracle. Soportando los despliegues mediante contenedores (Docker/Kubernetes) e infraestructura de nube (AWS/Azure)Conocimiento en…
+Desarrollador FullStack
+5 octubre, 2020
+Desarrollador FullStack Profesional en Ingeniería de Sistemas o afines, con experiencia en desarrollo de aplicaciones web en (Angular/React/Vue/JavaScript), y microservicios (SOAP/REST) en Java (Spring Boot), Node.js (Express.js), soportando los despliegues…
+]]></system-out>
+  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@37b72163
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@70f769bf
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@1b7622e2
+nov 23, 2021 9:41:19 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --start-maximized, goog:chromeOptions: {args: [--start-maximized], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+Starting ChromeDriver 95.0.4638.54 (d31a821ec901f68d0d34ccdbaea45b4c86ce543e-refs/branch-heads/4638@{#871}) on port 21351
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1637721684.986][WARNING]: This version of ChromeDriver has not been tested with Chrome version 96.
+nov 23, 2021 9:41:25 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Sophos jobs platform:Given Maria wants to know about the job offers on the Sophos page [Maria open up page [Maria opens the Sophos open up page]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Sophos jobs platform:Given Maria wants to know about the job offers on the Sophos page [Maria open up page [Maria opens the Sophos open up page]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@532d661c
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@7b0962e1
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Sophos jobs platform:Given Maria wants to know about the job offers on the Sophos page [Maria open up page [Maria opens the Sophos open up page], Maria work with us button [Maria clicks on Popup]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@3839e1e6
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Sophos jobs platform:Given Maria wants to know about the job offers on the Sophos page [Maria open up page [Maria opens the Sophos open up page], Maria work with us button [Maria clicks on Popup, Maria clicks on The button Work with us]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Sophos jobs platform:Given Maria wants to know about the job offers on the Sophos page [Maria open up page [Maria opens the Sophos open up page], Maria work with us button [Maria clicks on Popup, Maria clicks on The button Work with us]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Sophos jobs platform:Given Maria wants to know about the job offers on the Sophos page [Maria open up page [Maria opens the Sophos open up page], Maria work with us button [Maria clicks on Popup, Maria clicks on The button Work with us]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@367240f5
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@75125464
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@d3ee171
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Sophos jobs platform:Given Maria wants to know about the job offers on the Sophos page [Maria open up page [Maria opens the Sophos open up page], Maria work with us button [Maria clicks on Popup, Maria clicks on The button Work with us]], When she search for available offers of Java [Maria search [Maria enters 'Java' into The button Search]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4135a341
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Sophos jobs platform:Given Maria wants to know about the job offers on the Sophos page [Maria open up page [Maria opens the Sophos open up page], Maria work with us button [Maria clicks on Popup, Maria clicks on The button Work with us]], When she search for available offers of Java [Maria search [Maria enters 'Java' into The button Search, Maria types 'ENTER' in The button Search]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Sophos jobs platform:Given Maria wants to know about the job offers on the Sophos page [Maria open up page [Maria opens the Sophos open up page], Maria work with us button [Maria clicks on Popup, Maria clicks on The button Work with us]], When she search for available offers of Java [Maria search [Maria enters 'Java' into The button Search, Maria types 'ENTER' in The button Search]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Sophos jobs platform:Given Maria wants to know about the job offers on the Sophos page [Maria open up page [Maria opens the Sophos open up page], Maria work with us button [Maria clicks on Popup, Maria clicks on The button Work with us]], When she search for available offers of Java [Maria search [Maria enters 'Java' into The button Search, Maria types 'ENTER' in The button Search]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@40aad4e0
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2109b5a4
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Sophos jobs platform:Given Maria wants to know about the job offers on the Sophos page [Maria open up page [Maria opens the Sophos open up page], Maria work with us button [Maria clicks on Popup, Maria clicks on The button Work with us]], When she search for available offers of Java [Maria search [Maria enters 'Java' into The button Search, Maria types 'ENTER' in The button Search]], Then print the offers [Then answer]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Sophos jobs platform:Given Maria wants to know about the job offers on the Sophos page [Maria open up page [Maria opens the Sophos open up page], Maria work with us button [Maria clicks on Popup, Maria clicks on The button Work with us]], When she search for available offers of Java [Maria search [Maria enters 'Java' into The button Search, Maria types 'ENTER' in The button Search]], Then print the offers [Then answer]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: Sophos jobs platform:Given Maria wants to know about the job offers on the Sophos page [Maria open up page [Maria opens the Sophos open up page], Maria work with us button [Maria clicks on Popup, Maria clicks on The button Work with us]], When she search for available offers of Java [Maria search [Maria enters 'Java' into The button Search, Maria types 'ENTER' in The button Search]], Then print the offers [Then answer]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [Sophos jobs platform:Given Maria wants to know about the job offers on the Sophos page [Maria open up page [Maria opens the Sophos open up page], Maria work with us button [Maria clicks on Popup, Maria clicks on The button Work with us]], When she search for available offers of Java [Maria search [Maria enters 'Java' into The button Search, Maria types 'ENTER' in The button Search]], Then print the offers [Then answer]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [Sophos jobs platform:Given Maria wants to know about the job offers on the Sophos page [Maria open up page [Maria opens the Sophos open up page], Maria work with us button [Maria clicks on Popup, Maria clicks on The button Work with us]], When she search for available offers of Java [Maria search [Maria enters 'Java' into The button Search, Maria types 'ENTER' in The button Search]], Then print the offers [Then answer]]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Sophos jobs platform
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
