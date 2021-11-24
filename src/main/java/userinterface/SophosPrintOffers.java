@@ -18,7 +18,7 @@ public class SophosPrintOffers {
     public static By findDescription(AtomicInteger position){
         return By.xpath("(//div[@class='elementor-post__card'])["+position+"]/div/div/p");
     }
-    public static final Target FIND_NOT_OFFER = Target.the("It seems we can not find what you're looking").located(By.xpath("By.xpath(\"(//div[@class='elementor-post__card'])"));
+    public static final Target FIND_NOT_OFFER = Target.the("It seems we can not find what you're looking").located(By.xpath("//div[@class='elementor-posts-nothing-found']"));
     public static final By OPTIONS_DRAWER = By.xpath("(//div[@class='elementor-post__card'])");
 }
 

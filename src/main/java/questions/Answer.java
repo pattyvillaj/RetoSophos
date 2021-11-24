@@ -28,15 +28,18 @@ public class Answer implements Question {
 
         if(itemLabels.size()==0){
             System.out.println(Text.of(SophosPrintOffers.FIND_NOT_OFFER).viewedBy(actor).asString());
-            return false;
         }
 
         AtomicInteger position = new AtomicInteger(1);
         itemLabels.forEach(item ->{
 
+            System.out.println("Oferta\t"+position+ ":");
             System.out.println(item.getWrappedElement().findElement(SophosPrintOffers.findTitle(position)).getText());//title
+            System.out.println("Nombre de la oferta:");
             System.out.println(item.getWrappedElement().findElement(SophosPrintOffers.findDate(position)).getText()); //date
+            System.out.println("Fecha de la publicación:");
             System.out.println(item.getWrappedElement().findElement(SophosPrintOffers.findDescription(position)).getText()); //description
+            System.out.println("\n");
             position.getAndIncrement();
         });
 

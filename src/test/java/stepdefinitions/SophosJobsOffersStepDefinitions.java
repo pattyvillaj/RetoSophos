@@ -11,6 +11,8 @@ import tasks.OpenUpPage;
 import tasks.Search;
 import tasks.WorkWithUsButton;
 
+import java.util.List;
+
 import static net.serenitybdd.screenplay.GivenWhenThen.seeThat;
 import static net.serenitybdd.screenplay.actors.OnStage.*;
 
@@ -26,16 +28,12 @@ public class SophosJobsOffersStepDefinitions {
     }
 
     @When("^she search for available offers of (.*)$")
-    public void sheSearchForAvailableOffersOfJava(String keyWord) {
-        theActorInTheSpotlight().attemptsTo(Search.theUser(keyWord));
-
+    public void sheSearchForAvailableOffersOfJava(String type) {
+        theActorInTheSpotlight().attemptsTo(Search.theUser(type));
     }
 
-    @Then("^print the offers$")
-    public void printTheOffers() {
+    @Then("^print the offers available$")
+    public void printTheOffersAvailable() {
         theActorInTheSpotlight().should(seeThat(Answer.toThe()));
     }
-
-
-
 }
