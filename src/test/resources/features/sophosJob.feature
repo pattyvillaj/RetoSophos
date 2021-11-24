@@ -1,7 +1,7 @@
 # Actor: Maria
 
 @stories
-Feature: Add Course
+Feature: Search for offer
 
   @scenario1
   Scenario Outline: Sophos jobs platform

@@ -5,7 +5,7 @@
 
 3 Scenarios (?[32m3 passed?[0m)
 9 Steps (?[32m9 passed?[0m)
-1m1,958s
+0m55,603s
 
 ]]></system-out>
   <system-err><![CDATA[[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
@@ -25,8 +25,8 @@
  Learn Serenity BDD online at http://serenity-dojo.com                               
 -------------------------------------------------------------------------------------
 
-[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - Test Suite Started: Add Course
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testStarted: Sophos jobs platform/add-course;sophos-jobs-platform
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - Test Suite Started: Search for offer
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testStarted: Sophos jobs platform/search-for-offer;sophos-jobs-platform
 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
  _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
 |_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
@@ -36,7 +36,7 @@
                                                                   
 
 TEST STARTED: Sophos jobs platform
--------------------------------------------------------------------(add-course;sophos-jobs-platform)
+-------------------------------------------------------------------(search-for-offer;sophos-jobs-platform)
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@128fb3e1
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@29820b31
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@f51346e
