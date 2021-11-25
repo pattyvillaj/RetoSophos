@@ -26,19 +26,20 @@ Es necesario tener en cuenta que este proyecto fue ejecutado con con chromedrive
     
  ## Construido con:
  
- Solución al reto de automatización de Sophos se uso:
+En la Solución al reto de automatización de Sophos se uso:
   
   - Java
   - Serenity BDD(Cucumber BDD)
   - Screenplay 
-  - PageObject 
   - Lenguaje gherkin
   - Gradle
   
 ## Resultado de la Automatización
 
-![reporte](img/ResultadoPrueba.PNG)
-![reporte](img/ResultadoPrueba1.PNG)
+![reporte](img/Resultado1.PNG)
+![reporte](img/Resultado2.PNG)
+![reporte](img/Resultado3.PNG)
+![reporte](img/Resultado4.PNG)
 
 
 
