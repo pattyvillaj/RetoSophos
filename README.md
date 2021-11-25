@@ -1,7 +1,9 @@
 # Reto Sophos
 
 ## Descripción
-Los datos entregados en este reto corresponde a la automatización realizada a la página de Sophos, donde se busca realizar la búsqueda de ofertas laborables disponibles en la plataforma.
+Los datos entregados en este reto corresponde a la automatización realizada para proceso de selección en Sophos.
+
+Para conocer todos los detalles puedes revisar el archivo [Documento Prueba Tecnica]
 
 ## Antes de ejecutar
 
@@ -40,6 +42,8 @@ En la Solución al reto de automatización de Sophos se uso:
 ![reporte](img/Resultado2.PNG)
 ![reporte](img/Resultado3.PNG)
 ![reporte](img/Resultado4.PNG)
+
+[Documento Prueba Tecnica]: <pruebaTecnica/automationChallenge.docx>
 
 
 
